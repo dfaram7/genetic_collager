@@ -1,0 +1,6 @@
+jsonpickle==2.0.0
+numpy==1.16.6
+pathlib2==2.3.5
+Pillow==6.2.2
+requests==2.25.1
+urllib3==1.26.3
